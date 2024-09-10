@@ -8,3 +8,6 @@ Rol: 202104073-0
 
 Deje el makefile que ocupaba para correr los distintos algoritmos
 verificar que en el codigo este de forma correcta la direcciones de los archivos txt
+
+*****************************
+Mencionar que los codigos de los graficos fueron creados con ChatGPT
